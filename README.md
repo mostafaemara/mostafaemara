@@ -3,7 +3,7 @@
 
 
 ### 🚀 About Me
-I am Mostafa Emara a Flutter Mobile Developer, I am currently working remotly from home
+I am Mostafa Emara a Flutter Mobile Developer, I am currently working remotely from home
 
 #### Skills
 - Designing, developing, and implementing applications and solutions using a range of technologies and programming languages

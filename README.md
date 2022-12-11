@@ -19,7 +19,7 @@ I am Mostafa Emara a Flutter Mobile Developer, I am currently working remotely f
 - Developing Apps Using Firebase As Backend
 
 
-
+<a href="https://stardev.io/developers/mostafaemara"><img alt="Check out mostafaemara's profile on stardev.io" src="https://stardev.io/developers/mostafaemara/badge/languages/locality.svg" /></a>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mostafasaademara/)

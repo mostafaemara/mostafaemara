@@ -44,11 +44,11 @@ Currently, I’m embracing the flexibility of **remote work** and constantly exp
 
 ## 📈 GitHub Stats  
 
-![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true&theme=radical)  
+![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mostafaemara&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaemara&layout=compact&theme=radical)  
 
-*(Replace `Your_GitHub_Username` with your actual GitHub username to display your stats.)*  
+
 
 ---
 
